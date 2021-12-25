@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.hewan">
+    package="com.example.rezaapii">
    <application
-        android:label="hewan"
+        android:label="rezaapii"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
