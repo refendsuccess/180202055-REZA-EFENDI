@@ -33,7 +33,7 @@ class _RezaState extends State<Reza> {
                     width: MediaQuery.of(context).size.width,
                     child: Padding(
                       padding: const EdgeInsets.all(8.0),
-                      child: Image.asset("assets/foto/r.jpeg"),
+                      child: Image.asset("assets/foto/rezaaa.jpeg"),
                     ),
                   ),
                 ],
